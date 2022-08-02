@@ -1,2 +1,3 @@
 ##
 
+{Run | terminal}(npm start)
