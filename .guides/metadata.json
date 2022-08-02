@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "id": "d118177c-257c-4c77-d883-663aa3d4d85d",
+   "title": "Lab",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain8787}}/",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-d118.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "85375534-6056-abe3-0426-af293e5688c8",
+   "title": "Page 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-8537.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,17 @@
+{
+ "name": "Vue Test App",
+ "children": [
+  {
+   "title": "Lab",
+   "id": "d118177c-257c-4c77-d883-663aa3d4d85d",
+   "pageId": "d118177c-257c-4c77-d883-663aa3d4d85d",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "85375534-6056-abe3-0426-af293e5688c8",
+   "pageId": "85375534-6056-abe3-0426-af293e5688c8",
+   "type": "page"
+  }
+ ]
+}
