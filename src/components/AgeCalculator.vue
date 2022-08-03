@@ -82,7 +82,7 @@ export default {
         Calculate Age
       </button>
       <button class="calculate" @click.prevent="getZodiacSign">
-        Get Zodiac Sign
+        Zodiac Sign
       </button>
     </form>
 
