@@ -65,7 +65,6 @@ export default {
     getHoroscope() {
       if (this.us.select) {
         let birthDate = new Date(this.birthday);
-        var year = birthDate.getFullYear();
         var month = birthDate.getMonth();
         var date = birthDate.getDate();
 
