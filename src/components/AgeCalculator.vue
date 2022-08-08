@@ -200,7 +200,7 @@ export default {
           }
         }
 
-        this.horoscope = "Your astrological sign is " + this.sign + ".";
+        this.horoscope = "Your astrological zodiac sign is " + this.sign + ".";
       }
     },
 
@@ -227,7 +227,7 @@ export default {
         Calculate Age
       </button>
       <button class="calculate" @click.prevent="getZodiacSign">
-        Zodiac Sign
+        Chinese Zodiac
       </button>
       <button class="calculate" @click.prevent="getHoroscope">Horoscope</button>
     </form>
